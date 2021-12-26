@@ -5,3 +5,6 @@ Purple
 Red
 Green
 Indigo
+Earthquake
+
+Recycle
